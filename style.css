@@ -9,7 +9,7 @@ body {
 
 
 #calculator {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica;
     background-color: hsl(0, 0%, 15%);
     max-width: 500px;
     border-radius: 15px;
